@@ -8,8 +8,10 @@
 /*** Spinner ***/
 body {
    font-family: "Poppins", sans-serif;
+   max-width: 100vw !important;
    overflow-x: hidden !important;
 }
+
 #spinner {
    opacity: 0;
    visibility: hidden;
